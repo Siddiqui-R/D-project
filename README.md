@@ -1,3 +1,3 @@
 # D-Project
 
-This project uses GitHub Actions to maintain a daily contribution streak.
+This project is to test actions and become my daily practice code
